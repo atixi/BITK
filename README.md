@@ -26,7 +26,7 @@ under the MIT/X11 license. Litecoin was an early bitcoin spinoff or altcoin, s
 October 2011. In technical details, Litecoin is nearly identical to Bitcoin.
 
 BitcoinTK is the first Cryptocurrency to be exchanged for the Time as valued unit: 1 BITK = 60 sec.
-For Time is intended your time - the time you need to compete a task.
+For Time is intended your time - the time you need to complete a task.
 
 BitcoinTK is released via an open-source client on GitHub.
 It is a source code fork of the Bitcoin Core client, differing primarily by having a decreased 
