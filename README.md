@@ -2,6 +2,7 @@ BitcoinTK Core integration/staging tree
 =====================================
 
 https://bitcoin.tk
+https://bitcointk.org
 
 What is BitcoinTK?
 ----------------
@@ -18,7 +19,41 @@ on the Blockchain for an United Welfare and Pension system.
 BitcoinTK is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. BitcoinTK uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. BitcoinTK Core is the name of open source
+out collectively by the network. 
+
+Bitcoin TK stands for Bitcoin Time Kit
+Bitcoin TK (BITK) is a peer-to-peer cryptocurrency and open-source software project released 
+under the MIT/X11 license. Litecoin was an early bitcoin spinoff or altcoin, starting in 
+October 2011. In technical details, Litecoin is nearly identical to Bitcoin.
+
+It is the first Cryptocurrency to be exchanged for the Time as valued unit: 1 BITK = 60 sec.
+For Time is intended your time - the time you need to compete a task.
+
+BitcoinTK is released via an open-source client on GitHub.
+It is a source code fork of the Bitcoin Core client, differing primarily by having a decreased 
+block generation time (1 minute), increased maximum number of coins, different hashing algorithm 
+(scrypt, instead of SHA-256), and a slightly modified GUI.
+
+BitcoinTK is different in some ways from Bitcoin.
+* The BitcoinTK Network aims to process a block every 60 seconds, rather than Bitcoin's 10 minutes. 
+This allows BitxoinTK to confirm transactions much faster than Bitcoin.
+* BitcoinTK uses scrypt in its proof-of-work algorithm, a sequential memory-hard function requiring 
+asymptotically more memory than an algorithm which is not memory-hard.
+Due to BitcoinTK’s use of the scrypt algorithm, FPGA and ASIC devices made for mining BitcoinTK 
+are more complicated to create and more expensive to produce than they are for Bitcoin, which uses SHA-256.
+
+In cryptography, scrypt is a password-based key derivation function created by Colin Percival, 
+originally for the Tarsnap online backup service. The algorithm was specifically designed to make it 
+costly to perform large-scale custom hardware attacks by requiring large amounts of memory. 
+In 2016, the scrypt algorithm was published by IETF as RFC 7914. A simplified version of scrypt is used 
+as a proof-of-work scheme by a number of cryptocurrencies, first implemented by an anonymous programmer 
+called ArtForz in Tenebrix and followed by Fairbrix and Litecoin soon after and now BicoinTK.
+Scrypt is used in many cryptocurrencies as a proof-of-work algorithm. 
+It was first implemented for Tenebrix (released in September 2011) and served as the basis for 
+Litecoin and Dogecoin and BitcoinTK, which also adopted its scrypt algorithm. 
+Specialized ASIC mining hardware is available for scrypt-based cryptocurrencies.
+
+BitcoinTK Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
