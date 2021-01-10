@@ -10,8 +10,6 @@ What is BitcoinTK?
 
 Bitcoin TK exchanges for the Time as valued unit: 1 BITK = 60 sec.
 For Time is intended the time needed to complete a task.
-Bitcoin TK will contribute to the achievement of the
-Sustainable Development Goals (SDGs) adopted by the United Nations.
 
 Our Mission is to establish an equal financial retribution model for Global workers. 
 We keep records and proof of working and social time and local tax payments 
