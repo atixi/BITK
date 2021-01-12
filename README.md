@@ -3,8 +3,6 @@ BitcoinTK Core integration/staging tree
 
 https://bitcoin.tk
 
-https://bitcointk.org
-
 What is BitcoinTK?
 ----------------
 
