@@ -31,7 +31,7 @@ It is a source code fork of the Bitcoin Core client, differing primarily by ha
 block generation time (1 minute), increased maximum number of coins, different hashing algorithm 
 (scrypt, instead of SHA-256), and a slightly modified GUI.
 
-BitcoinTK is different in some ways from Bitcoin.
+BitcoinTK (BITK) is different in some ways from Bitcoin Core (BTC).
 * The BitcoinTK Network aims to process a block every 60 seconds, rather than Bitcoin's 10 minutes. 
 This allows BitxoinTK to confirm transactions much faster than Bitcoin.
 * BitcoinTK uses scrypt in its proof-of-work algorithm, a sequential memory-hard function requiring 
