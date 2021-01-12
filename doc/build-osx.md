@@ -41,7 +41,7 @@ from the root of the repository.
 Build BitcoinTK Core
 ------------------------
 
-1. Clone the BitcoinTK Core source code:
+1. Clone the BitcoinTK Core source code here:
 
         git clone https://github.com/atixi/BITK
         cd bitcointk
